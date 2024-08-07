@@ -1,0 +1,13 @@
+-- [[ arg table, i hope i dont fuck this up 💔]] --
+local ARGS = {
+    [1] = XXXXXXXXXXXXXX,
+    [2] = XXXXXXXXXXXXXXXX,
+    [3] = XXXXXXXXXXXXX,
+}
+
+for _, placeId in pairs(ARGS) do
+    if game.PlaceId == placeId then
+        print("your current game is on the list:" .. currentPlaceId)
+        break
+    end
+end
