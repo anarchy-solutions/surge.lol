@@ -1,4 +1,4 @@
-# Copyright (c) 2024 MoonX Softworks
+## Copyright (c) 2024 MoonX Softworks
 ###### ll rights reserved.
 
 __blame.wtf__ is licensed under the ***MoonX Softworks License.*** You are free to use and distribute this script under the following *conditions:*
