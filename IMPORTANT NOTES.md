@@ -1,3 +1,10 @@
+* Check the file named [!! CHANGELOGS](https://github.com/anarchy-solutions/-blame.wtf/blob/main/!!%20CHANGELOGS) for ***changelogs***.
+*For FAQ, Roadmap and future updates refer to the [Wiki](https://github.com/anarchy-solutions/-blame.wtf/wiki).
+
+# ▼▼▼▼▼▼▼▼▼▼▼▼   COPYRIGHT!   ▼▼▼▼▼▼▼▼▼▼▼▼
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Copyright (c) 2024 MoonX Softworks
 ###### All rights reserved.
 
