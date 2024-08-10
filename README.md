@@ -1,6 +1,6 @@
 * Check the file named [!! CHANGELOGS](https://github.com/anarchy-solutions/-blame.wtf/blob/main/!!%20CHANGELOGS) for ***changelogs***.
 * For FAQ, Roadmap and future updates refer to the [Wiki](https://github.com/anarchy-solutions/-blame.wtf/wiki).
-* For the loader, check the file named [mainloader.lua]([https://github.com/anarchy-solutions/-blame.wtf/blob/main/source.lua](https://github.com/anarchy-solutions/-blame.wtf/blob/main/mainloader.lua)).
+* For the loader, check the file named [mainloader.lua](https://github.com/anarchy-solutions/-blame.wtf/blob/main/mainloader.lua).
 
 # ▼▼▼▼▼▼▼▼▼▼▼▼ COPYRIGHT! 
 
