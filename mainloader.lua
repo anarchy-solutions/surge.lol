@@ -18,7 +18,7 @@ supported = {
     [3] = 111111111,
 }
 
-for _, placeId in pairs(games2) do
+for _, placeId in pairs(supported) do
     if game.PlaceId == placeId then
         print("your current game is on the supported games' list!")
         task.wait(.5)
@@ -26,3 +26,4 @@ for _, placeId in pairs(games2) do
         break
     end
 end
+
