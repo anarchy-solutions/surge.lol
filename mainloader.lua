@@ -12,7 +12,7 @@ $$$$$$$  |$$$$$$$$\ $$ |  $$ |$$ | \_/ $$ |$$$$$$$$\ $$\ $$  /   \$$ |   $$ |   
  THIS SCRIPT IS UNDER THE LICENSE OF MoonX Softworks. Refrain from reverse engineering, modifying or claiming the ownership of this product!
 --]]
 
-local supported = {
+supported = {
     [1] = 2788229376,
     [2] = 10101010101,
     [3] = 111111111,
