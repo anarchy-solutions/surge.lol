@@ -7,7 +7,7 @@ local games = {
 
 for _, placeId in pairs(games) do
     if game.PlaceId == placeId then
-        print("your current game is on the hvh/rage list:" .. currentPlaceId)
+        print("your current game is on the hvh/rage list:" .. game.PlaceID)
         break
     end
 end
