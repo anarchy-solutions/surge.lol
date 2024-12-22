@@ -7,7 +7,7 @@ local games2 = {
 
 for _, placeId in pairs(games2) do
     if game.PlaceId == placeId then
-        print("your current game is on the streamables list:" .. currentPlaceId)
+        print("your current game is on the streamables list:" .. game.PlaceID)
         break
     end
 end
