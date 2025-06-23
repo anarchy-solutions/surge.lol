@@ -3,11 +3,11 @@
 --]]
 
 supported = { -- this is now useless, script will execute even if the game is not listed in the table
-    [1] = 2788229376,
+    [1] = 4282985734,
     [2] = 301549746,
     [3] = 111111111,
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/anarchy-solutions/surge.lol/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/anarchy-solutions/surge.lol/refs/heads/main/loader-hvh-rage.lua"))()
 
 -- life is tuff typa shit 💔
