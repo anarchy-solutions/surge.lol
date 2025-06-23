@@ -8,6 +8,6 @@ supported = { -- this is now useless, script will execute even if the game is no
     [3] = 111111111,
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/anarchy-solutions/serenium.dev/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/anarchy-solutions/surge.lol/main/main.lua"))()
 
 -- life is tuff typa shit 💔
