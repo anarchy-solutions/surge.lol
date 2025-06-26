@@ -1,8 +1,4 @@
---[[                                                                                             
- THIS SCRIPT IS UNDER THE LICENSE OF MoonX Softworks. Refrain from reverse engineering, modifying or claiming the ownership of this product!
---]]
-
-supported = { -- this is now useless, script will execute even if the game is not listed in the table
+supported = {
     [1] = 4282985734,
     [2] = 301549746,
     [3] = 111111111,
