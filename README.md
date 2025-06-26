@@ -18,6 +18,6 @@ __surge.lol__ is licensed under the ***MoonX Softworks License.*** You are free 
 3. **No Reverse Engineering**: You may not reverse engineer, decompile, or disassemble the script.
 4. **No Warranty**: The script is provided "as is", without warranty of any kind. The authors are not liable for any damages arising from the use of the script.
 
-For more details about the MoonX Softworks License, or if you need to request permission for uses beyond this license, please contact MoonX Softworks's Manager (E-Mail: __Management@moonxsoftworks.net__)
+For more details about the MoonX Softworks License, or if you need to request permission for uses beyond this license, please contact MoonX Softworks's Manager (E-Mail: __unvhooky@serenium.tech__)
 
 This script was created by MoonX Softworks and is protected by copyright law. If we have to face legal action, we will do.
