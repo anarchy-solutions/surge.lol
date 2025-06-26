@@ -11,7 +11,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-__serenium__ is licensed under the ***MoonX Softworks License.*** You are free to use and distribute this script under the following *conditions:*
+__surge.lol__ is licensed under the ***MoonX Softworks License.*** You are free to use and distribute this script under the following *conditions:*
 
 1. **Attribution**: You must include the original copyright notice and this permission notice in all copies or substantial portions of the script.
 2. **No Modification**: You may not modify, adapt, or create derivative works based on this script.
